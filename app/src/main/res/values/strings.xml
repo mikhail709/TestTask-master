@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Task</string>
+    <string name="viewholder_tag_key">123</string>
+    <string name="post_tag_key">321</string>
+
+    <string name="handler_error_msg">Smth went wrong. Try again later</string>
+    <string name="handler_upd_success_msg">User data has been successfully updated</string>
+    <string name="handler_save_success_msg">User data has been successfully saved</string>
+    <string name="error_no_connection">"NO INTERNET CONNECTION. CLICK ME TO RECHECK"</string>
+    <string name="save_in_db">Save in database</string>
+</resources>
